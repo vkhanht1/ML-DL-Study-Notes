@@ -32,6 +32,3 @@ A classic Computer Vision project using an Artificial Neural Network (ANN).
 - [ ] Implement Convolutional Neural Networks (CNN) for better image recognition.
 - [ ] Explore Autograd and Manual Training Loops in PyTorch.
 - [ ] Deploy models using TensorFlow Lite or TorchServe.
-
----
-*Follow my journey as I explore the world of Artificial Intelligence!*
